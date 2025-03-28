@@ -10,7 +10,7 @@ A plot of the velocity of the star vs time is produced.
 
 
 
-hi
+hi, hello
 """
 
 import numpy as np
