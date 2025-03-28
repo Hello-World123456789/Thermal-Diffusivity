@@ -9,6 +9,8 @@ observed on Earth.
 A plot of the velocity of the star vs time is produced.
 
 
+
+hi
 """
 
 import numpy as np
